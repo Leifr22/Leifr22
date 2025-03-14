@@ -21,7 +21,7 @@
 🚀 About Me  
 - 🧑‍💻 **2 years** of experience, including academic and professional projects.  
 - 🎯 Specializing in **Django**, **Django REST Framework**, **PostgreSQL**, and **Docker**.  
-- 🌱 Currently learning asynchronous programming and working with high-load systems.  
+- 🌱 Currently learning FastAPI programming and working with high-load systems.  
 - 🗺️ Languages: Russian, English (B2).  
 
 ### :hammer_and_wrench: Languages and Tools :
